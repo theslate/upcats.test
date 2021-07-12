@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>UpCataas</name>
+    </assembly>
+    <members>
+        <member name="M:UpCataas.Controllers.UpcatController.Get(System.String)">
+            <summary>
+            Humanely flips a cat.
+            </summary>
+            <param name="resource">The CATAAS cat to flip.</param>
+            <returns>A flipped cat.</returns>
+        </member>
+        <member name="T:UpCataas.ImageFormatter">
+            <summary>
+            Formats IMagickImage into an HttpResponse
+            </summary>
+        </member>
+    </members>
+</doc>
